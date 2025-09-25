@@ -1,0 +1,2 @@
+# Power-BI-Projects
+Welcome to a playground of data visualization! ✨🤯 This repository offers an interactive Power BI dashboard that transforms raw sales data into actionable insights. Dive deep into trends, track KPIs, and identify top performers at a glance. Say goodbye to static reports and hello to dynamic data storytelling! 🚀
